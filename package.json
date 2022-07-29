@@ -1,6 +1,6 @@
 {
   "name": "wf-ui-toolbox",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "UI elements library for web apps",
   "main": "index.js",
   "scripts": {
